@@ -7,5 +7,6 @@ Here is an index of the top level repositories that we are studying:
 `openssh-portable`: An SSH binary in C that is both client and server. This is essentially the SSH reference implementation.
 `russh`: An SSH library in Rust with both client and server
 `asyncssh`: An SSH library in Python with both client and server
+`go-crypto/ssh`: An SSH library in Go with both client and server
 `rustls`: A TLS library in Rust. This is not an SSH library, and is here for comparison sake for extracting Rust best practices.
 `fizz`: A TLS library in C++. This is not an SSH library, and is here for comparison sake for for its clean design such as its state machine and performance optimizations.

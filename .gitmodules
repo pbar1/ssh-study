@@ -19,3 +19,6 @@
 [submodule "rustls"]
 	path = rustls
 	url = https://github.com/rustls/rustls.git
+[submodule "go-crypto"]
+	path = go-crypto
+	url = https://go.googlesource.com/crypto
