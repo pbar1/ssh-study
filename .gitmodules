@@ -1,0 +1,15 @@
+[submodule "openssh-portable"]
+	path = openssh-portable
+	url = https://github.com/openssh/openssh-portable.git
+[submodule "libssh2"]
+	path = libssh2
+	url = https://github.com/libssh2/libssh2.git
+[submodule "russh"]
+	path = russh
+	url = https://github.com/Eugeny/russh.git
+[submodule "libssh"]
+	path = libssh
+	url = https://git.libssh.org/projects/libssh.git/
+[submodule "asyncssh"]
+	path = asyncssh
+	url = https://github.com/ronf/asyncssh.git
