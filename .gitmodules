@@ -13,3 +13,9 @@
 [submodule "asyncssh"]
 	path = asyncssh
 	url = https://github.com/ronf/asyncssh.git
+[submodule "fizz"]
+	path = fizz
+	url = https://github.com/facebookincubator/fizz.git
+[submodule "rustls"]
+	path = rustls
+	url = https://github.com/rustls/rustls.git
