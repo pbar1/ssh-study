@@ -2,13 +2,13 @@ I'm studying SSH implementations in pursuit of learning the best practices of ho
 
 Here is an index of the top level repositories that we are studying:
 
-`libssh`: An SSH library in C with both client and server
-`libssh2`: An SSH library in C with client only
-`openssh-portable`: An SSH binary in C that is both client and server. This is essentially the SSH reference implementation.
-`russh`: An SSH library in Rust with both client and server
-`asyncssh`: An SSH library in Python with both client and server
-`go-crypto/ssh`: An SSH library in Go with both client and server
-`rustls`: A TLS library in Rust. This is not an SSH library, and is here for comparison sake for extracting Rust best practices.
-`fizz`: A TLS library in C++. This is not an SSH library, and is here for comparison sake for for its clean design such as its state machine and performance optimizations.
+- `libssh`: An SSH library in C with both client and server
+- `libssh2`: An SSH library in C with client only
+- `openssh-portable`: An SSH binary in C that is both client and server. This is essentially the SSH reference implementation.
+- `russh`: An SSH library in Rust with both client and server
+- `asyncssh`: An SSH library in Python with both client and server
+- `go-crypto/ssh`: An SSH library in Go with both client and server
+- `rustls`: A TLS library in Rust. This is not an SSH library, and is here for comparison sake for extracting Rust best practices.
+- `fizz`: A TLS library in C++. This is not an SSH library, and is here for comparison sake for for its clean design such as its state machine and performance optimizations.
 
 When I ask you for "for each" style questions, I want you to _actually_ do each of the repos I've mentioned here. Do not skip any of them in the interest of time.
