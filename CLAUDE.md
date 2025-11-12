@@ -9,6 +9,8 @@ Here is an index of the top level repositories that we are studying:
 - `asyncssh`: An SSH library in Python with both client and server
 - `go-crypto/ssh`: An SSH library in Go with both client and server
 - `mina-sshd`: An SSH library in Java with both client and server. It is particularly well documented.
+- `dropbear`: An SSH binary in C.
+- `tinyssh`: An SSH binary in C. It is particularly minimal and may not even include TCP.
 - `rustls`: A TLS library in Rust. This is not an SSH library, and is here for comparison sake for extracting Rust best practices.
 - `fizz`: A TLS library in C++. This is not an SSH library, and is here for comparison sake for for its clean design such as its state machine and performance optimizations.
 
