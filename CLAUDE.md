@@ -8,6 +8,7 @@ Here is an index of the top level repositories that we are studying:
 - `russh`: An SSH library in Rust with both client and server
 - `asyncssh`: An SSH library in Python with both client and server
 - `go-crypto/ssh`: An SSH library in Go with both client and server
+- `mina-sshd`: An SSH library in Java with both client and server. It is particularly well documented.
 - `rustls`: A TLS library in Rust. This is not an SSH library, and is here for comparison sake for extracting Rust best practices.
 - `fizz`: A TLS library in C++. This is not an SSH library, and is here for comparison sake for for its clean design such as its state machine and performance optimizations.
 

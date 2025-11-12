@@ -22,3 +22,6 @@
 [submodule "go-crypto"]
 	path = go-crypto
 	url = https://go.googlesource.com/crypto
+[submodule "mina-sshd"]
+	path = mina-sshd
+	url = https://github.com/apache/mina-sshd.git
