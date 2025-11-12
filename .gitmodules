@@ -31,3 +31,6 @@
 [submodule "dropbear"]
 	path = dropbear
 	url = https://github.com/mkj/dropbear.git
+[submodule "wolfssh"]
+	path = wolfssh
+	url = https://github.com/wolfSSL/wolfssh.git
