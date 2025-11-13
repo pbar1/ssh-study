@@ -19,3 +19,5 @@ For comparison, these are some TLS libraries:
 - `fizz`: A TLS library in C++. This is not an SSH library, and is here for comparison sake for for its clean design such as its state machine and performance optimizations.
 
 When I ask you for "for each" style questions, I want you to _actually_ do each of the repos I've mentioned here. Do not skip any of them in the interest of time.
+
+This is how `rustls` implemented caller-controlled buffers: https://github.com/rustls/rustls/issues/1362
