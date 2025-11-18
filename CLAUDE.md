@@ -21,3 +21,16 @@ For comparison, these are some TLS libraries:
 When I ask you for "for each" style questions, I want you to _actually_ do each of the repos I've mentioned here. Do not skip any of them in the interest of time.
 
 This is how `rustls` implemented caller-controlled buffers: https://github.com/rustls/rustls/issues/1362
+
+## Focus Areas
+
+### Packet padding calculation
+
+See this section in OpenSSH for how padding is calculated:
+
+```
+    /*
+     * calc size of padding, alloc space, get random data,
+     * minimum padding is 4 bytes
+     */`
+```
